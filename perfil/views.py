@@ -14,4 +14,3 @@ def profile(request):
     
     return render(request, 'profile.html', {'projects':projects})
 
-# {'projects':projects} : es un diccionario que tiene como clave projects
