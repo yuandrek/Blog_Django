@@ -1,0 +1,13 @@
+
+blog/__pycache__
+blog/migrations
+
+blogpersonal/__pycache__
+core/__pycache__
+core/static/img
+core/migrations
+media
+
+perfil/__pycache__
+perfil/migrations
+
