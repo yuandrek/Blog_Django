@@ -1,0 +1,30 @@
+
+
+{% extends 'base.html' %}
+
+{% block title %} Página de inicio {% endblock %}
+
+
+{% block class %}
+   class="home-body"
+{% endblock %}
+
+
+{% block content %}
+
+<main class="home-main">
+    <div class="main-container">
+        <p class="main-container__text">
+            Temas interesantes e impactantes del Mundo Tecnológico y la Medicina
+        </p>
+
+        <a class="main-container__link" href="{% url 'posts' %}">Ingrese aquí!</a>
+    </div>
+</main>
+
+{% endblock %}
+
+
+{% block contact %} {% endblock %}
+
+{% block footer %} {% endblock %}
