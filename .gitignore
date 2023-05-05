@@ -11,3 +11,4 @@ media
 perfil/__pycache__
 perfil/migrations
 
+*.sqlite3
