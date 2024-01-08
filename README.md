@@ -1,3 +1,3 @@
 
 # Blog
-Diseño de página web en HTML/CSS, desarrollada en framework Django de Python
+Diseño de sitio web en HTML/CSS, desarrollado en framework Django de Python
